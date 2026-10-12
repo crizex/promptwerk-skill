@@ -1,0 +1,12 @@
+{
+  "name": "promptwerk",
+  "version": "1.0.0",
+  "description": "Turn a rough one-liner into a reviewed task prompt with real project context. You read it, edit it, and only then does Claude run it.",
+  "author": {
+    "name": "crizex",
+    "url": "https://github.com/crizex"
+  },
+  "homepage": "https://github.com/crizex/promptwerk-skill",
+  "license": "MIT",
+  "keywords": ["prompt", "prompt-engineering", "review", "workflow", "skill"]
+}

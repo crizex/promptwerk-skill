@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "promptwerk",
+  "description": "Prompt first, then run: a review step between your rough idea and Claude's work.",
+  "owner": {
+    "name": "crizex",
+    "url": "https://github.com/crizex"
+  },
+  "plugins": [
+    {
+      "name": "promptwerk",
+      "version": "1.0.0",
+      "description": "Rough idea in, reviewed task prompt out, runs only after your OK.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
