@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "promptwerk",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Rough idea in, reviewed task prompt out, runs only after your OK.",
       "source": "./",
       "category": "productivity"

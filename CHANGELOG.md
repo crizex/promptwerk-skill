@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- README: banner, demo animation and link row, in line with the other crizex projects.
+
 ## 1.0.0
 
 - First release: `/promptwerk <rough idea>` gathers just enough project context, writes a task prompt

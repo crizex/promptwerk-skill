@@ -1,6 +1,28 @@
-# Promptwerk Skill
+<p align="center">
+  <img src="assets/banner.svg" alt="Promptwerk Skill: a scribbled sentence turns into a task prompt you review, then send" width="100%">
+</p>
 
-Prompt first, then run. A Claude Code skill that puts a review step between your rough idea and the work.
+<p align="center">
+  <b>Rough idea in. Reviewed prompt out.</b><br>
+  A Claude Code skill that writes the task prompt first, shows it to you,
+  and runs it in the same session only after you say send.
+</p>
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo: /promptwerk with a rough sentence, Claude reads two files, shows a task prompt with goal, done-when checklist and scope, the user replies send, the edits run and every done-when item is ticked with evidence" width="100%">
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> |
+  <a href="#how-it-works">How it works</a> |
+  <a href="#why">Why</a> |
+  <a href="CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/crizex/promptwerk-skill/releases">Releases</a>
+</p>
+
+---
+
+## How it works
 
 ```
 /promptwerk the csv export should also include archived items
